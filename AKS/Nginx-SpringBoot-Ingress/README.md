@@ -1,3 +1,5 @@
+![Reactive non-blocking Application with Spring Boot 2 on Spring WebFlux stack, Spring Data Reactive Repositories](logo.png)
+
 # Overview
 Ingress controller provides reverse proxy, traffic routing, and TLS termination for Kubernetes services. This example shows how to specifically configure Spring application and generally any application along with Nginx configuration and deployment to implement path based traffic routing
 
