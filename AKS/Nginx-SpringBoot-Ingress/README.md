@@ -1,5 +1,5 @@
 # Overview
-Ingress controller provides reverse proxy, traffic routing, and TLS termination for Kubernetes services. This example shows how to specifically onfigure your Spring application and generally any application along with Nginx configuration and deployment to implement path based traffic routing
+Ingress controller provides reverse proxy, traffic routing, and TLS termination for Kubernetes services. This example shows how to specifically configure Spring application and generally any application along with Nginx configuration and deployment to implement path based traffic routing
 
 # Getting started
 * Deploy AKS cluster:
