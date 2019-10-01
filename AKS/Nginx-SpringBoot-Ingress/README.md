@@ -10,7 +10,7 @@ Ingress controller provides reverse proxy, traffic routing, and TLS termination 
    - https://docs.microsoft.com/en-us/azure/aks/ingress-tls
 
 ## First:
-Deploy your application:
+Deploy the application:
 ```
 kubectl apply -f readinglistk8s.yaml
 ```
