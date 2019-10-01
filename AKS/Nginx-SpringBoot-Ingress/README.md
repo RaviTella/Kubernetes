@@ -37,8 +37,9 @@ Note that, I have configured the route such that any requests arriving with the 
 ```
 ## Then:
 Retrive the Nginx ingress controller EXTERNAL-IP
+```
 kubectl get service
-
+```
 Access the application
 http://EXTERNAL-IP/reading-list/home
 
